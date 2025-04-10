@@ -2,7 +2,7 @@
 
 ## 1. 3D Print the Sensor Housing
 
-🔗 **Download STL Files**: [Click here to access the 3D models and STL files](INSERT-LINK-HERE)
+**Download STL Files**: [Click here to access the 3D models and STL files](sensor-unit/stl/sensor_housing.stl)
 
 These parts are **not designed to be structural or waterproof on their own**, so you can print them with most common filament materials. The MUAIR team recommends **PETG** for its UV resistance and low cost.
 
@@ -23,7 +23,7 @@ There is a **known clearance issue** with the sensor module near the screen side
 
 The sensor housing requires a **2 ¾” x 1” acrylic cover** to be installed over the LCD viewport **before waterproofing**.
 
-### 🛒 Buying Option:
+### Buying Option:
 You can purchase a pre-cut piece of clear acrylic in that size.
 
 ### DIY Cutting Option:

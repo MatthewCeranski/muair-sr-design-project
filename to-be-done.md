@@ -36,4 +36,29 @@ need to write .sh to create folders, copy python code, setup crontab to keep it 
 
 
 ### visual setup.sh
-need to write .sh to create folders, copy python code, setup crontab to keep it easy for user
+need to write .sh to create folders, copy python code, setup crontab to keep it easy for user\
+
+
+
+
+
+## Main To DO
+1. read through sensor assembly instructions
+      - review finished steps
+      - finish incomplete steps
+      - add images where applicable 
+      - review for completion (walkthrough of entire process)
+2. read through visualization assembly instructions
+      - review finished steps
+      - finish incomplete steps
+      - add images where applicable
+      - create circuit diagram 
+      - review for completion (walkthrough of entire process)
+3. email team
+      - need stl files for printing
+      - need to access old rpi's (for file setup to make .sh file)
+      - send this and ask for updates needed (team review?)
+4. create .sh files for setup of raspberry pis
+5. send final version to team
+6. publish on github
+7. return all MUAIR stuff to dr roy lab

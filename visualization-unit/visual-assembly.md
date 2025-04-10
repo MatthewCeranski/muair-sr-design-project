@@ -2,7 +2,7 @@
 
 ## 1. 3D Print the Visualization Housing
 
-Download the STL files and 3D models [here]().
+Download the STL files and 3D models [here](muair-sr-design-project/visualization-unit/stl).
 
 These parts are not designed to be structural or waterproof on their own. Therefore, any common filament material can be used. The MUAIR team recommends PETG due to its UV resistance and relatively low cost.
 

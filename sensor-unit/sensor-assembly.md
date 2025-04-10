@@ -59,19 +59,22 @@ Spray all **other sides** of the housing.
 
 ## 4. Set Up Sensor Raspberry Pi
 
-🛠️ *Instructions to follow...*
+*Instructions to follow...*
 
 ---
 
 ## 5. Assemble the Sensor Circuit
 
 Follow the wiring diagram (see below) to correctly wire the sensor components.
+*Instructions to follow...*
 
-📷 *[Insert or link to wiring diagram here]*
+
 
 ---
 
 ## 6. Install the Assembled Sensor Circuit into the Housing
+
+*Instructions to follow...*
 
 - Carefully place the completed sensor circuit into the 3D-printed housing.
 - Ensure cables are routed cleanly and components are secured.

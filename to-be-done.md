@@ -24,7 +24,7 @@ need to update pictures for each process
 need to finish rasp pi and componenet install instructions
 
 
-#### sensor setup.sh
+### sensor setup.sh
 need to write .sh to create folders, copy python code, setup crontab to keep it easy for user
 
 

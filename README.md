@@ -1,5 +1,5 @@
 # muair-sr-design-project
-Construct air quality sensor housing and display to actively track your environment! 
+Construct an air quality sensor and display to actively track your environment! 
 
 
 ## Contributors

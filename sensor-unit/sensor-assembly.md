@@ -11,11 +11,11 @@ If you are new to 3D printing, we suggest searching for tutorials tailored to yo
 - You can slice and print the parts at any time during the build process.
 - Feel free to modify the model parameters as needed.
 
-**Note**: In their current state, both the sensor housing and visualization housing **require modification** to fit internal components.
+>**Note**: In their current state, both the sensor housing and visualization housing **require modification** to fit >internal components.
 
 ### Sensor Modification Notice
 
-There is a **known clearance issue** with the sensor module near the screen side of the housing. Specifically, the **inner holding post blocks installation**. Use a Dremel or rotary tool to **remove the post**, leaving approximately **0.25"** remaining to retain structural stability.
+There is a **known clearance issue** with the sensor module near the screen side of the housing. Specifically, the **inner holding post blocks installation**. Use a Dremel or rotary tool to **remove the post**, leaving approximately **0.25"** remaining to retain stability.
 
 ---
 
@@ -59,7 +59,9 @@ Spray all **other sides** of the housing.
 
 ## 4. Set Up Sensor Raspberry Pi
 
-*Instructions to follow...*
+Using Raspberry Pi Imager, follow the instructions [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system) to install an operating system and get your raspberry pi up and running. We recommend installing the lastest version of Raspberry Pi OS. 
+
+Following setup, open the terminal on the Raspberry Pi and WHAT DO I DO HERE
 
 ---
 

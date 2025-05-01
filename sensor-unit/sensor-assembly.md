@@ -75,16 +75,10 @@ bash sensor_setup.sh
 
 ## 5. Assemble the Sensor Circuit
 
-Follow the wiring diagram (see below) to correctly wire the sensor components.
-*Instructions to follow...*
-
-
+Follow the wire diagram provided below. These connections can be soldered for a more permanent unit, or if flexibility is desired these connections can be made on a breadboard. At this point, test the unit to ensure all connections were made correctly. 
 
 ---
 
 ## 6. Install the Assembled Sensor Circuit into the Housing
 
-*Instructions to follow...*
-
-- Carefully place the completed sensor circuit into the 3D-printed housing.
-- Ensure cables are routed cleanly and components are secured.
+Place each component into the sensor housing. The two air quality sensors will be on the bottom with the fans facing downwards. The LCD screen slides into the slot near the plexiglass viewing window. The breadboard sits on the middle shelf. The raspberry pi fits on the top shelf. Use the wire run cutouts on the back of each shelf to prevent shifting of components. 

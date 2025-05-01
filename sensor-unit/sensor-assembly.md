@@ -61,11 +61,15 @@ To protect internal components, the sensor housing must be waterproofed.
 Using Raspberry Pi Imager, follow the instructions [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system) to install an operating system and get your raspberry pi up and running. We recommend installing the latest version of Raspberry Pi OS. 
 
 Following setup, you will need to clone this repository to the raspberry pi. In the terminal, copy this code: 
-''' git clone https://github.com/your-username/your-repository.git
-cd your-repository '''
+```
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+```
 
 This will create a copy of the most up to date version of this project. Finally, it is time to set up the raspberry pi to run the MUAIR project automatically. A setup script was created that will download the latest version of python, install the necessary libraries, organize relevant folders, and automate the program. Copy this code into the terminal:
-''' bash sensor_setup.sh '''
+```
+bash sensor_setup.sh
+```
 
 ---
 

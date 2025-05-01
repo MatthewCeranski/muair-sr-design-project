@@ -49,16 +49,27 @@ Feel free to be creative—make the visualization stand out and invite interpret
 
 ## 4. Set Up the Visualization Raspberry Pi
 
-Instructions coming soon.
+Using Raspberry Pi Imager, follow the instructions [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system) to install an operating system and get your raspberry pi up and running. We recommend installing the latest version of Raspberry Pi OS. 
+
+Following setup, you will need to clone this repository to the raspberry pi. In the terminal, copy this code: 
+```
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+```
+
+This will create a copy of the most up to date version of this project. Finally, it is time to set up the raspberry pi to run the MUAIR project automatically. A setup script was created that will download the latest version of python, install the necessary libraries, organize relevant folders, and automate the program. Copy this code into the terminal:
+```
+bash visual_setup.sh
+```
 
 ---
 
 ## 5. Assemble the Visualization Circuit
 
-Instructions coming soon.
+Follow the wire diagram provided below. These connections can be soldered for a more permanent unit, or if flexibility is desired these connections can be made on a breadboard. At this point, test the unit to ensure all connections were made correctly. 
 
 ---
 
 ## 6. Install the Visualization Circuit
 
-Instructions coming soon.
+Install the assembled components into the visualization housing. The screen is secured with two screws at the bottom of the rear cutout. The fans are tucked into mounts below each smokestack opening. The raspberry pi is set in place on the standouts provided. Attach streamers to the protrusions in each smokestack to give the effect of smoke while the fans are turned on.

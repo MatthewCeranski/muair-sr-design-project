@@ -44,16 +44,10 @@ need to write .sh to create folders, copy python code, setup crontab to keep it 
 
 ## Main To DO
 1. read through sensor assembly instructions
-      - review finished steps
-      - finish incomplete steps
       - add images where applicable 
-      - review for completion (walkthrough of entire process)
 2. read through visualization assembly instructions
-      - review finished steps
-      - finish incomplete steps
       - add images where applicable
       - create circuit diagram 
-      - review for completion (walkthrough of entire process)
 3. email team
       - need stl files for printing
       - need to access old rpi's (for file setup to make .sh file)

@@ -52,16 +52,20 @@ To protect internal components, the sensor housing must be waterproofed.
 
 > **DO NOT spray the bottom of the sensor housing.**  
 > This area includes vents critical to sensor function — blocking them will reduce accuracy.
-
-Spray all **other sides** of the housing.
+> Spray all **other sides** of the housing.
 
 ---
 
 ## 4. Set Up Sensor Raspberry Pi
 
-Using Raspberry Pi Imager, follow the instructions [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system) to install an operating system and get your raspberry pi up and running. We recommend installing the lastest version of Raspberry Pi OS. 
+Using Raspberry Pi Imager, follow the instructions [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system) to install an operating system and get your raspberry pi up and running. We recommend installing the latest version of Raspberry Pi OS. 
 
-Following setup, open the terminal on the Raspberry Pi and WHAT DO I DO HERE
+Following setup, you will need to clone this repository to the raspberry pi. In the terminal, copy this code: 
+''' git clone https://github.com/your-username/your-repository.git
+cd your-repository '''
+
+This will create a copy of the most up to date version of this project. Finally, it is time to set up the raspberry pi to run the MUAIR project automatically. A setup script was created that will download the latest version of python, install the necessary libraries, organize relevant folders, and automate the program. Copy this code into the terminal:
+''' bash sensor_setup.sh '''
 
 ---
 
